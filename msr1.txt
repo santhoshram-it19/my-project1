@@ -1,0 +1,28 @@
+1
+3
+5
+7
+9
+nano fourth.txt
+cat fourth.txt
+
+
+priyadarshan
+santhosh ram
+sabarinathan
+narun
+nishanth
+pradeep
+sanjai
+charan
+nithin kirthick
+
+2
+4
+6
+8
+1
+3
+5
+7
+9
